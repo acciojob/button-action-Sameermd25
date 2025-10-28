@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import './../styles/App.css';
-import {useState} from 'react';
 
 const App = (props) => {
   const [isVisible,setIsVisible]=useState(false);
